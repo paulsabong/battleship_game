@@ -16,9 +16,10 @@
 ### How to install and run the game
 * Ensure you have MATLAB and Git installed to your computer
 * Run your Terminal
-* Ensure that you are in the desktop file director
+* Ensure that you are in the desktop file director 
 ```
-cd <copy path of desktop file directory>
+ls 
+cd ~/Desktop
 ```
 * Download file from github
 ```
