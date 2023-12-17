@@ -1,6 +1,6 @@
 ## Battleship Game 
 ### About
-This game was designed using MATLAB software. The rules are the same as battleship, but instead of you playing against an opponent, you are playing against the computer.
+This game was designed using MATLAB software. The rules are the same as Battleship, but instead of you playing against an opponent, you are playing against the computer.
   
 ### How to Play 
 * A 10 x 10 grid will contain a specific number of ships.
