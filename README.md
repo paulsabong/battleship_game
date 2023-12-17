@@ -12,7 +12,13 @@ This game was designed using MATLAB software. The rules are the same as battlesh
 * Easy Mode: You have 50 shots to destroy 5 ships.
 * Hard Mode: You have 60 shots to destroy 7 ships.
 * Training Mode: You have 1000 shots to destroy 10 ships. Ship locations will be revealed.
-  
+
+### Screenshots 
+<img width="958" alt="image" src="https://github.com/paulsabong/battleship_game/assets/150301713/465d3e25-b793-4e88-a49b-5c493867d9fb">
+<img width="960" alt="image" src="https://github.com/paulsabong/battleship_game/assets/150301713/b8792cd7-4557-41ba-84e6-148ef6bf0869">
+<img width="346" alt="image" src="https://github.com/paulsabong/battleship_game/assets/150301713/0e865dba-4a90-451e-a8fc-028f61bc6aac">
+<img width="242" alt="image" src="https://github.com/paulsabong/battleship_game/assets/150301713/b4ed1624-2a06-473e-8c81-da75a16823c6">
+
 ### How to install and run the game
 * Ensure you have MATLAB and Git installed to your computer
 * Run your Terminal
