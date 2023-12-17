@@ -33,7 +33,7 @@ cd ~/Desktop
 ```
 git clone https://github.com/paulsabong/battleship_game.git
 ```
-* Open Matlab -> Click Open file (Ctrl + O) -> Click Battleship folder -> Open RunHere.m file
+* Open Matlab -> Click Open file (Ctrl + O) -> Click Battleship folder -> Click and Open RunHere.m file
 * Click Run (Ctrl + Enter)
   * If the game is not running properly, it may be because you are not in the same directory. If so, you need to right click RunHere.m and click on 'Change Current Folder to ...'
   * Click Run again (Ctrl + Enter)
