@@ -21,7 +21,7 @@ This game was designed using MATLAB software. The rules are the same as battlesh
 ls 
 cd ~/Desktop
 ```
-* Download file from github
+* Download Battleship file from github
 ```
 git clone https://github.com/paulsabong/battleship_game.git
 ```
