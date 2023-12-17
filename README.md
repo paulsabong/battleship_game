@@ -26,13 +26,13 @@ This game was designed using MATLAB software. The rules are the same as Battlesh
 
 ### How to install and run the game
 * Ensure you have MATLAB and Git installed to your computer
-* Run your Terminal
-* Ensure that you are in the Desktop file directory 
+* Run your Terminal and type the following code: 
+  * Ensure that you are in the Desktop file directory 
 ```
 ls 
 cd ~/Desktop
 ```
-* Download Battleship file from github
+  * Download Battleship file from github
 ```
 git clone https://github.com/paulsabong/battleship_game.git
 ```
