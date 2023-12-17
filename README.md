@@ -18,7 +18,7 @@ This game was designed using MATLAB software. The rules are the same as Battlesh
   * '' X ''  = 'part of the ship was hit'
   * '' O ''  = 'part of the ship's location [Training Mode]'
 
-### Screenshots 
+### Demo 
 <img width="958" alt="image" src="https://github.com/paulsabong/battleship_game/assets/150301713/465d3e25-b793-4e88-a49b-5c493867d9fb">
 <img width="960" alt="image" src="https://github.com/paulsabong/battleship_game/assets/150301713/b8792cd7-4557-41ba-84e6-148ef6bf0869">
 <img width="346" alt="image" src="https://github.com/paulsabong/battleship_game/assets/150301713/0e865dba-4a90-451e-a8fc-028f61bc6aac">
