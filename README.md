@@ -7,11 +7,16 @@ This game was designed using MATLAB software. The rules are the same as Battlesh
 * You get a limited amount of shots to take down all the ships.
 * You can enter a coordinate, for example, B7, to shoot.
 * Your shot will display on the grid. A symbol (view Legend) will be represented to indicate a hit or miss.
-* If all ships are down before or after your last shot, you win!'
+* If all ships are down before or after your last shot, you win!
 * You can play up to three different game modes:
-* Easy Mode: You have 50 shots to destroy 5 ships.
-* Hard Mode: You have 60 shots to destroy 7 ships.
-* Training Mode: You have 1000 shots to destroy 10 ships. Ship locations will be revealed.
+  * Easy Mode: You have 50 shots to destroy 5 ships.
+  * Hard Mode: You have 60 shots to destroy 7 ships.
+  * Training Mode: You have 1000 shots to destroy 10 ships. Ship locations will be revealed.
+* **Legend**
+  * '' . '' = 'water'
+  * '' # ''  = 'missed shot'
+  * '' X ''  = 'part of the ship was hit'
+  * '' O ''  = 'part of the ship's location [Training Mode]'
 
 ### Screenshots 
 <img width="958" alt="image" src="https://github.com/paulsabong/battleship_game/assets/150301713/465d3e25-b793-4e88-a49b-5c493867d9fb">
