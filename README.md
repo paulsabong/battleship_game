@@ -19,7 +19,8 @@ This game was designed using MATLAB software. The rules are the same as Battlesh
   * '' O ''  = 'part of the ship's location [Training Mode]'
 
 ### Demo 
-[![Watch the video](https://imagetolink.com/ib/bYj6w4h9Jp.png)](https://youtu.be/eXkuWSsDUbk)
+https://github.com/paulsabong/battleship_game/assets/150301713/29fa3f8e-a671-4121-90f0-52e59466d527
+
 
 ### How to install and run the game
 * Ensure you have MATLAB and Git installed to your computer
