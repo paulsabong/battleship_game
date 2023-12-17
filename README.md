@@ -16,7 +16,7 @@ This game was designed using MATLAB software. The rules are the same as battlesh
 ### How to install and run the game
 * Ensure you have MATLAB and Git installed to your computer
 * Run your Terminal
-* Ensure that you are in the desktop file director 
+* Ensure that you are in the Desktop file directory 
 ```
 ls 
 cd ~/Desktop
